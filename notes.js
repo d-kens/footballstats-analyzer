@@ -18,6 +18,16 @@ Issues
         >  primary colors on a color picker.
         >  error levels
         > days of the week
+
+* Array
+    - Data structure to hold a collection of elements.
+    - Dynamic in size: Elemeents can be added or removed.
+
+
+* Tuple
+    - An ordered collection of elements of fixed sizes and types.
+    - Tuples are immutable: once defined the length and types of the elements in a tuple cannot be changed.
+    - Useful when you want to work with a collection of values where the position in the collection is meaningful
 */
 
 

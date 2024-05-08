@@ -20,15 +20,19 @@ Issues
         > days of the week
 
 * Array
-    - Data structure to hold a collection of elements.
-    - Dynamic in size: Elemeents can be added or removed.
+    - A data structure that stores a collection elements in contigous memory locations.
 
 
 * Tuple
-    - An ordered collection of elements of fixed sizes and types.
-    - Tuples are immutable: once defined the length and types of the elements in a tuple cannot be changed.
-    - Useful when you want to work with a collection of values where the position in the collection is meaningful
+    - The type of data in each position in a tuple is fixed once it is initialized.
+    - Immutable: Its size and data type for each element cannot be changed.
+
+    let tup: [string, number, boolean] = ['Onyango', 10, true]
+    let student: [string, number];
+    student = ['Onyango Dickens', 136980]
 */
+
+
 
 
 
